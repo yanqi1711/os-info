@@ -1,6 +1,5 @@
-<samp><b>collect your device info</b></samp>
-
-it's nice for show your system-info
+# OS-INFO
+collect your device info
 
 ## LICENSE
 
